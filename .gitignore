@@ -1,9 +1,9 @@
 # Ignore the bin/ directory
-bin/
+WindowsAdhocDataGridSQLDeveloper/bin/
 
 # Ignore all files in the MySQL directory
-MySQL/
+WindowsAdhocDataGridSQLDeveloper/MySQL/
 
 # Ignore obj/ directory
-obj/
+WindowsAdhocDataGridSQLDeveloper/obj/
 
