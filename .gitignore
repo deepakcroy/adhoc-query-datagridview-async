@@ -1,0 +1,9 @@
+# Ignore the bin/ directory
+bin/
+
+# Ignore all files in the MySQL directory
+MySQL/
+
+# Ignore obj/ directory
+obj/
+
